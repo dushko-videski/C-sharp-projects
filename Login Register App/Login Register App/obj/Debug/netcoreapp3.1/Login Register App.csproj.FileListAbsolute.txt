@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\bin\Debug\netcoreapp3.1\Login Register App.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\bin\Debug\netcoreapp3.1\Login Register App.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\bin\Debug\netcoreapp3.1\Login Register App.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\bin\Debug\netcoreapp3.1\Login Register App.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\bin\Debug\netcoreapp3.1\Login Register App.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\bin\Debug\netcoreapp3.1\Login Register App.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Login Register App\Login Register App\obj\Debug\netcoreapp3.1\Login Register App.genruntimeconfig.cache

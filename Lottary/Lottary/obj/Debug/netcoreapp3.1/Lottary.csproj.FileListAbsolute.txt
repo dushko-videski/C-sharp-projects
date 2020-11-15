@@ -1,0 +1,16 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\Lottary.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\Lottary.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\Lottary.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\Lottary.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\Lottary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\Lottary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\bin\Debug\netcoreapp3.1\LottoServices.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Lottary\Lottary\obj\Debug\netcoreapp3.1\Lottary.csproj.CopyComplete

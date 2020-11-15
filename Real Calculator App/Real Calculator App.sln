@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Real Calculator App", "Real Calculator App\Real Calculator App.csproj", "{5EEF91C4-8F1B-47D7-A4C5-00F9D8505042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEF91C4-8F1B-47D7-A4C5-00F9D8505042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEF91C4-8F1B-47D7-A4C5-00F9D8505042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEF91C4-8F1B-47D7-A4C5-00F9D8505042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEF91C4-8F1B-47D7-A4C5-00F9D8505042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F035EA-570D-4F12-873E-0713EA54A6E2}
+	EndGlobalSection
+EndGlobal
