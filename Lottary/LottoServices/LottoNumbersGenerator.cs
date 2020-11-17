@@ -6,18 +6,13 @@ namespace LottoServices
 {
     public class LottoNumbersGenerator
     {
-
-
-
-
-        //METHOD
         public static int[] GenerateNumbers()
         {
             int[] winningCombination = new int[7];
             for (int i = 0; i < winningCombination.Length; i++)
             {
                 int number = new Random().Next(1, 36);
-                if (Array.IndexOf(winningCombination, number) != -1) 
+                if (Array.IndexOf(winningCombination, number) != -1)
                 {
                     while (Array.IndexOf(winningCombination, number) != -1)
                     {
@@ -28,7 +23,5 @@ namespace LottoServices
             }
             return winningCombination;
         }
-
-
     }
 }

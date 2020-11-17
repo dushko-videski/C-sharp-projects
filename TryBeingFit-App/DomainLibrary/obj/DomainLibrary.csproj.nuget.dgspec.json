@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {}
+    "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {
+    "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj",
         "projectName": "DomainLibrary",
-        "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj",
+        "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj",
         "packagesPath": "C:\\Users\\dushk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\obj\\",
+        "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

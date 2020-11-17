@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\4.C# Basic\\Login Register App\\Login Register App\\Login Register App.csproj",
+      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Login Register App\\Login Register App\\Login Register App.csproj",
       "projectName": "Login Register App",
-      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\4.C# Basic\\Login Register App\\Login Register App\\Login Register App.csproj",
+      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Login Register App\\Login Register App\\Login Register App.csproj",
       "packagesPath": "C:\\Users\\dushk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\4.C# Basic\\Login Register App\\Login Register App\\obj\\",
+      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Login Register App\\Login Register App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

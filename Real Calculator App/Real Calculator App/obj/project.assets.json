@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\4.C# Basic\\Real Calculator App\\Real Calculator App\\Real Calculator App.csproj",
+      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Real Calculator App\\Real Calculator App\\Real Calculator App.csproj",
       "projectName": "Real Calculator App",
-      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\4.C# Basic\\Real Calculator App\\Real Calculator App\\Real Calculator App.csproj",
+      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Real Calculator App\\Real Calculator App\\Real Calculator App.csproj",
       "packagesPath": "C:\\Users\\dushk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\4.C# Basic\\Real Calculator App\\Real Calculator App\\obj\\",
+      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Real Calculator App\\Real Calculator App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

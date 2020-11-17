@@ -11,3 +11,16 @@ C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Real Calculator App\Real Calcu
 C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.dll
 C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.pdb
 C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\bin\Debug\netcoreapp3.1\Real Calculator App.exe
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\bin\Debug\netcoreapp3.1\Real Calculator App.deps.json
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\bin\Debug\netcoreapp3.1\Real Calculator App.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\bin\Debug\netcoreapp3.1\Real Calculator App.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\bin\Debug\netcoreapp3.1\Real Calculator App.dll
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\bin\Debug\netcoreapp3.1\Real Calculator App.pdb
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.dll
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.pdb
+C:\Users\dushk\OneDrive\Desktop\C# projects\Real Calculator App\Real Calculator App\obj\Debug\netcoreapp3.1\Real Calculator App.genruntimeconfig.cache

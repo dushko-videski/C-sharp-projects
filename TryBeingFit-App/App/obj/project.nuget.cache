@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yTWv8Ta21BVJQg+n/taROKzmvK3vyH4B3wd5Ziw0bcoyv6HykfNMccWyFbTX7iRRY+Pi9wpnbNsf4H0R1cMtGA==",
+  "dgSpecHash": "NltZDK438f4iuKNiQxpa+Sd6AsND9ZdJfopoyo+RDXSPZYegMHL2aoYLhs0QCHVIXQ3Q9vX1EIFlU6jATa1YYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\App\\App.csproj",
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dushk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

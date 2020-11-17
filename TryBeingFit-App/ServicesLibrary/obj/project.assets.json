@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj",
       "projectName": "ServicesLibrary",
-      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj",
+      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj",
       "packagesPath": "C:\\Users\\dushk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\ServicesLibrary\\obj\\",
+      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\ServicesLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,8 +99,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {
-              "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj"
+            "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {
+              "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj"
             }
           }
         }

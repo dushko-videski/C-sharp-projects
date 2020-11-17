@@ -1,0 +1,16 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\Lotary.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\Lotary.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\Lotary.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\Lotary.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\Lotary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\Lotary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\bin\Debug\netcoreapp3.1\LottoServices.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\4.C# Basic\skwd8-05-oopcsharp\g1\Class9WorkShop\Lotary\Lotary\obj\Debug\netcoreapp3.1\Lotary.genruntimeconfig.cache

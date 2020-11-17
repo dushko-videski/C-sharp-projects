@@ -16,3 +16,12 @@ C:\Users\dushk\OneDrive\Desktop\SEAVUS\5.C# Advance\TryBeingFit.MyTry\DomainLibr
 C:\Users\dushk\OneDrive\Desktop\SEAVUS\5.C# Advance\TryBeingFit.MyTry\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.csproj.CoreCompileInputs.cache
 C:\Users\dushk\OneDrive\Desktop\SEAVUS\5.C# Advance\TryBeingFit.MyTry\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.dll
 C:\Users\dushk\OneDrive\Desktop\SEAVUS\5.C# Advance\TryBeingFit.MyTry\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.pdb
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\bin\Debug\netcoreapp3.1\DomainLibrary.deps.json
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\bin\Debug\netcoreapp3.1\DomainLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\bin\Debug\netcoreapp3.1\DomainLibrary.pdb
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\C# projects\TryBeingFit-App\DomainLibrary\obj\Debug\netcoreapp3.1\DomainLibrary.pdb

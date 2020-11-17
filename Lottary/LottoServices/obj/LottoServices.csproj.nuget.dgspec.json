@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Basic\\Homework\\Lottary\\LottoServices\\LottoServices.csproj": {}
+    "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Lottary\\LottoServices\\LottoServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Basic\\Homework\\Lottary\\LottoServices\\LottoServices.csproj": {
+    "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Lottary\\LottoServices\\LottoServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Basic\\Homework\\Lottary\\LottoServices\\LottoServices.csproj",
+        "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Lottary\\LottoServices\\LottoServices.csproj",
         "projectName": "LottoServices",
-        "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Basic\\Homework\\Lottary\\LottoServices\\LottoServices.csproj",
+        "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Lottary\\LottoServices\\LottoServices.csproj",
         "packagesPath": "C:\\Users\\dushk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Basic\\Homework\\Lottary\\LottoServices\\obj\\",
+        "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\Lottary\\LottoServices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\dushk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

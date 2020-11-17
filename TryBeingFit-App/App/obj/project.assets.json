@@ -95,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\App\\App.csproj",
+      "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\App\\App.csproj",
       "packagesPath": "C:\\Users\\dushk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\App\\obj\\",
+      "outputPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -118,11 +118,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {
-              "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj"
+            "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj": {
+              "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\DomainLibrary\\DomainLibrary.csproj"
             },
-            "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj": {
-              "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\5.C# Advance\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj"
+            "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj": {
+              "projectPath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj"
             }
           }
         }
